@@ -1,0 +1,6 @@
+{
+  "name": "Alam Homeo",
+  "description": "Your Trusted Medical Store for Genuine Homeopathic Medicines & Healthcare Needs in Aurangabad, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
